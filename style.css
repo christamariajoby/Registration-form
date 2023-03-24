@@ -1,0 +1,36 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    display: flex;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+    background:linear-gradient(#71b7e6,#9b59b6);
+}
+.container{
+    max-width: 50%;
+    width: 100%;
+    background: #fff;
+    padding: 30px 30px;
+    border-radius: 10px;
+}
+h2{
+    color:#9b59b6;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
